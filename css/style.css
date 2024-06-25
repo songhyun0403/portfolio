@@ -305,7 +305,7 @@
 .yamaha-pic {
   width: 121rem;
   height: 100%;
-  background: url(../img/project-pic1.png) no-repeat 0 0 / cover;
+  background: url(../img/project-pic1.jpg) no-repeat 0 0 / cover;
 
   position: absolute;
   top: 0;
@@ -441,7 +441,7 @@
 .Starship-pic {
   width: 121rem;
   height: 100%;
-  background: url(../img/project-pic2.png) no-repeat 0 0 / cover;
+  background: url(../img/project-pic2.jpg) no-repeat 0 0 / cover;
 
   position: absolute;
   top: 0;
@@ -525,7 +525,7 @@
 .Wanka-pic {
   width: 121rem;
   height: 100%;
-  background: url(../img/project4.png) no-repeat 0 0 / cover;
+  background: url(../img/project4.jpg) no-repeat 0 0 / cover;
 
   position: absolute;
   top: 0;
@@ -754,7 +754,7 @@
 /* footer 부분 
  */
 .footer {
-  background: url(../img/footer-pic.png) no-repeat 50% 50% / cover;
+  background: url(../img/footer-pic.jpg) no-repeat 50% 50% / cover;
   padding: 16.5rem 0 11.3rem;
 }
 

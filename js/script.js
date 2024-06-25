@@ -2,6 +2,8 @@ $(function () {
   const $window = $(window);
   const $pointer = $('.pointer');
 
+  // 마우스 부분
+
   //마우스 좌표값
   let x = 0;
   let y = 0;

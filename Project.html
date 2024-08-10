@@ -19,21 +19,21 @@
     <script>
       $(function () {
         // 프로젝트 슬라이드
-        const projectSlider = new Swiper('.project-slider', {
+        const projectSlider = new Swiper(".project-slider", {
           autoplay: {
             delay: 3000,
           },
           loop: true,
           speed: 1000, //기본값 300ms
-          effect: 'slide',
+          effect: "slide",
           // If we need pagination
           pagination: {
-            el: '.swiper-pagination',
+            el: ".swiper-pagination",
           },
           // Navigation arrows
           navigation: {
-            nextEl: '.btn-next',
-            prevEl: '.btn-prev',
+            nextEl: ".btn-next",
+            prevEl: ".btn-prev",
           },
           mousewheel: true,
         });
@@ -95,7 +95,12 @@
                     <p>2024.04</p>
                   </div>
                   <div class="btn-project">
-                    <a href="#" class="btn-Process">Process</a>
+                    <a
+                      href="./project/project1.html"
+                      class="btn-Process"
+                      target="_blank"
+                      >Process</a
+                    >
                     <a
                       href="https://songhyun0403.github.io/Yamaha/"
                       class="btn-Website"
